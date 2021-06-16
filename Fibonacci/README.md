@@ -1,1 +1,1 @@
-Naivo and efficient algorithms for the calculation of Fibonacci numbers.
+Naive and efficient algorithms for the calculation of Fibonacci numbers.
